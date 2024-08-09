@@ -1,7 +1,3 @@
-Here's a colorful and engaging README template for your project. You can copy this into your `README.md` file to provide an appealing and informative overview of your extension.
-
----
-
 # 🎨 **Time Tracker** ⏱️
 
 **Time Tracker** is a Visual Studio Code extension designed to help you monitor your coding time effortlessly. It provides a live update of the total time you spend coding, ensuring you stay productive and keep track of your work sessions.
@@ -71,7 +67,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📧 **Contact**
 
 For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Feel free to adjust the content, especially the installation and usage instructions, to fit your exact needs. You can also replace the placeholders for screenshots with actual images related to your extension.
