@@ -16,8 +16,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "extension.showTotalTime",
-        "title": "Show Total Coding Time"
+        "command": "extension.showFileTime",
+        "title": "Show File-Specific Coding Time"
       }
     ]
   },
